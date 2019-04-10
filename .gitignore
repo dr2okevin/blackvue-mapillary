@@ -1,0 +1,7 @@
+*.mp4
+*.gpx
+*.nmea
+.idea
+.directory
+/videos/*
+!/videos/.gitignore
